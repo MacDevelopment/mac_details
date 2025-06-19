@@ -1,2 +1,2 @@
 # mac_details
-A lightweight FiveM resource that lets contributes to the immersion on your roleplay server. Leave, inspect, and a delete details are your map.
+A FiveM script that adds to the immersion on your roleplay server. Leave, inspect, and delete details around your map.
